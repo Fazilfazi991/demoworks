@@ -1,0 +1,18 @@
+Create a clean, professional HR consulting homepage for Natasha Hunt Consulting. The site should feel trustworthy, calm, strategic, and tailored for small to medium-sized businesses.
+
+Required sections:
+- Header/nav: Home, About, Services, Testimonials, Contact.
+- Primary CTA button: Book a Free Explore Session.
+- Hero with professional portrait of Natasha and headline about simplifying HR so clients can focus on growth.
+- Mini trust row highlighting 15+ years HR experience, trusted by growing businesses, tailored solutions.
+- Intro/credibility strip about tailored HR solutions.
+- Services cards: HR Process Development, Policy Support, Employee Relations Support, HR Strategy for Growing Teams.
+- A 3-step process: Consultation, Tailored Planning, Implementation Support.
+- Testimonials section.
+- Optional credentials/logo row.
+- Final CTA band and structured footer.
+
+Design guidance:
+- Sage/teal, charcoal, white palette.
+- Clean editorial layout with airy spacing.
+- Professional service-business tone.

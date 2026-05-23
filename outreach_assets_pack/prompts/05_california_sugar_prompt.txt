@@ -1,0 +1,19 @@
+Create a clean, airy beauty/wellness homepage for California Sugar by Jillian McKenzie. The business offers professional body sugaring in Edmonton from a home studio in Hollick Kenyon.
+
+Required sections:
+- Header/nav: Home, Services, About, FAQ, Book Now, Contact.
+- Strong book-now button.
+- Hero with calming treatment-room image and headline focused on smooth, confident skin.
+- Intro copy about body sugaring in Edmonton and the Hollick Kenyon home studio.
+- Benefits row: 100% Natural, Gentle on Skin, Long-Lasting Results, Exfoliates Naturally, Better for You.
+- Service cards: Face, Body, Bikini, Full Body.
+- About Jillian section with portrait and trust points.
+- Testimonials section.
+- Location/contact strip with Hollick Kenyon, Edmonton, map panel, phone, email, Instagram.
+- Final booking CTA band.
+- Elegant footer.
+
+Design guidance:
+- Soft peach, terracotta, cream, beige palette.
+- Minimal but inviting spa-like design.
+- Premium, clean, feminine presentation.

@@ -1,0 +1,18 @@
+Create a soft, premium wellness coaching homepage for Boussole Wellness Coaching. The message is helping women move from burnout to bliss. The site should feel calm, hopeful, elevated, and nurturing.
+
+Required sections:
+- Header/nav: Home, Programs, Blog, About, Contact.
+- CTA button: Book a Free Discovery Call.
+- Hero with large editorial headline “From Burnout to Bliss” and a calming lifestyle image.
+- Secondary CTA: Get the Healthy Habits Guide.
+- Four-pillar benefits row: Overcome Burnout, Align Career & Purpose, Improve Work-Life Balance, Manage Time Effectively.
+- Coaching Programs & Services cards.
+- 5-step coaching journey.
+- Testimonials section.
+- About coach section with credibility points.
+- Final CTA strip and footer with newsletter subscribe.
+
+Design guidance:
+- Soft cream, sage, muted green, dusty blue tones.
+- Elegant serif headings with clean body typography.
+- Calm, spacious, editorial wellness design.

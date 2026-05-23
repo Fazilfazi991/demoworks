@@ -1,0 +1,31 @@
+Build 7 separate premium, mobile-responsive homepage concepts in Next.js + Tailwind CSS (or clean HTML/CSS sections if preferred) inspired by the attached homepage mockup images. Each homepage should be production-quality, conversion-focused, visually polished, and easy to customize.
+
+General build requirements for all 7 websites:
+- Make every homepage fully responsive for desktop, tablet, and mobile.
+- Use clean semantic HTML structure and reusable components.
+- Match the layout hierarchy, spacing, visual tone, and section order shown in the corresponding mockup image.
+- Use smooth scrolling, soft hover effects, subtle reveal animations, and polished CTA states.
+- Keep the design premium and modern.
+- Use optimized placeholder images where needed and clearly label reusable sections.
+- Include a sticky top navigation and a structured footer.
+- Build each homepage as a separate page/file.
+- Keep code clean and easy for future edits.
+- Prioritize conversion, trust-building, and clarity in copy.
+- Add proper button hierarchy and section spacing.
+- Include sections exactly in the spirit of the mockup: hero, trust/benefits, services, process, testimonials, about/founder, CTA, footer.
+
+Deliverables:
+1. One folder per brand/site.
+2. Reusable components if using Next.js.
+3. Proper image placeholders and comments showing where real assets should go.
+4. Clean typography pairing that matches the brand feel.
+5. SEO-friendly structure with heading hierarchy.
+
+Sites to build:
+1. Verum Law
+2. PW Design and Co
+3. Natasha Hunt Consulting
+4. Mowbrey Gil LLP
+5. California Sugar
+6. E-Pops Performance
+7. Boussole Wellness Coaching

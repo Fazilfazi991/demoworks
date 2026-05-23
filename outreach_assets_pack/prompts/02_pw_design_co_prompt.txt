@@ -1,0 +1,19 @@
+Create a soft, feminine, premium homepage for PW Design and Co. The business blends virtual assistant services and handmade paper/floral products. Style should be warm, blush-toned, elegant, welcoming, and polished.
+
+Required sections:
+- Header with logo and nav: Home, About, VA Services, Handmade Products, Work With Me, Blog.
+- Hero with strong headline about helping small businesses reclaim time and stay organized.
+- CTA buttons: Work With Me and Explore Services.
+- Cozy workspace hero image with laptop, planner, flowers, mug, and desk accessories.
+- Two-column support section: Virtual Assistant Services and Handmade Products.
+- How It Works 3-step section.
+- About Paula section with portrait and brand story.
+- Featured Handmade Products section for cake toppers and floral shadow boxes.
+- Testimonials from business and product customers.
+- Email opt-in / lead capture section.
+- Footer with quick links, social icons, and contact.
+
+Design guidance:
+- Soft blush, cream, rose, and warm neutral palette.
+- Use elegant serif + script accent + clean sans typography.
+- Rounded cards, gentle shadows, and soft feminine styling.

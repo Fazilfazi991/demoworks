@@ -1,0 +1,19 @@
+Create a premium law firm homepage for Verum Law. Style: clean, sophisticated, modern, trustworthy. Use a navy, white, and subtle gold accent palette. The homepage should feel more premium and credible than the current minimal site.
+
+Required sections:
+- Sticky header with logo left and nav items: Home, About, Services, Contact.
+- Hero section with large headline focused on clarity and confident legal guidance.
+- Two CTA buttons: Book a Consultation and Contact Us.
+- A professional hero visual: modern office interior/reception and conference room.
+- A trust/info strip showing Edmonton, Alberta; phone 825-535-3700; address 2nd Floor, 17633 114 Avenue NW, Edmonton, AB T5S 2R9; hours Mon–Fri 8:30 AM – 5:00 PM.
+- Services cards for Business Law, Real Estate Law, Wills & Estates, Dispute Resolution.
+- Approach section focused on clarity, responsiveness, and practical solutions.
+- A client testimonial section.
+- Strong CTA banner before footer.
+- Footer with contact details, services, and navigation.
+
+Design guidance:
+- Large serif headings + clean sans-serif body type.
+- Premium law-firm whitespace.
+- Elegant cards and icons.
+- Strong conversion-focused CTA placement.

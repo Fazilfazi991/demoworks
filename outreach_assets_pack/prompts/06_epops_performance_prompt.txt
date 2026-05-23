@@ -1,0 +1,18 @@
+Create a bold, high-end coaching homepage for E-Pops Performance. The focus is nervous-system regulation and performance under pressure, especially for high-achieving women. The design should feel modern, powerful, and emotionally intelligent.
+
+Required sections:
+- Header/nav: Home, Program, About, Bookings, Resources, Contact.
+- Hero with strong headline about performance dropping under pressure and nervous system training.
+- CTA buttons: Book a Session and Learn the Method.
+- Dark, elegant hero visual with a focused woman and subtle neural/abstract line motifs.
+- Problem section explaining how pressure affects performance.
+- Outcomes/benefits strip.
+- 3-step method section: Regulate, Refocus, Perform.
+- Testimonials section.
+- Meet Your Coach section.
+- Strong CTA banner and footer.
+
+Design guidance:
+- Dark charcoal/black base with plum, mauve, and soft beige accents.
+- Premium coaching aesthetic.
+- Elegant typography and emotional clarity.

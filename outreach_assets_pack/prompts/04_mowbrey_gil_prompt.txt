@@ -1,0 +1,18 @@
+Create a polished accounting firm homepage for Mowbrey Gil LLP. Style: corporate, established, confident, premium. The business offers accounting, tax, business advisory, and business valuation services.
+
+Required sections:
+- Header with nav: About, Services, News, Contact.
+- Utility buttons: Pay an Invoice and Secure Upload.
+- Hero with strong financial-guidance headline and a boardroom/city-view image.
+- CTA buttons: Contact Us and Explore Services.
+- Services cards: Audit & Accounting, Taxation, Business Advisory, Business Valuation.
+- Testimonial band.
+- Value proposition section with image + text about customized service and lasting partnerships.
+- Team/expertise section with professional headshots and key stats.
+- Final CTA strip.
+- Footer with address, phone, email, quick links, services, and resources.
+
+Design guidance:
+- Navy/deep blue, white, gold, and teal accents.
+- Strong corporate grid.
+- High-end financial services feel.
