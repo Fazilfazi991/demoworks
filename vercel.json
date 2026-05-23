@@ -1,0 +1,42 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/outreach_assets_pack/sites/index.html"
+    },
+    {
+      "source": "/verum-law/:path*",
+      "destination": "/outreach_assets_pack/sites/verum-law/:path*"
+    },
+    {
+      "source": "/pw-design-co/:path*",
+      "destination": "/outreach_assets_pack/sites/pw-design-co/:path*"
+    },
+    {
+      "source": "/natasha-hunt-consulting/:path*",
+      "destination": "/outreach_assets_pack/sites/natasha-hunt-consulting/:path*"
+    },
+    {
+      "source": "/mowbrey-gil/:path*",
+      "destination": "/outreach_assets_pack/sites/mowbrey-gil/:path*"
+    },
+    {
+      "source": "/california-sugar/:path*",
+      "destination": "/outreach_assets_pack/sites/california-sugar/:path*"
+    },
+    {
+      "source": "/epops-performance/:path*",
+      "destination": "/outreach_assets_pack/sites/epops-performance/:path*"
+    },
+    {
+      "source": "/boussole-wellness/:path*",
+      "destination": "/outreach_assets_pack/sites/boussole-wellness/:path*"
+    },
+    {
+      "source": "/shared/:path*",
+      "destination": "/outreach_assets_pack/sites/shared/:path*"
+    }
+  ]
+}
