@@ -1749,6 +1749,10 @@ h3 {
   display: inline-flex;
 }
 
+.demo-chat.is-delayed {
+  display: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .reveal-on-scroll {
     opacity: 1;

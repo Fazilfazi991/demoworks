@@ -123,6 +123,13 @@
 
   document.body.appendChild(chat);
 
+  if (window.matchMedia("(max-width: 700px)").matches) {
+    chat.classList.add("is-delayed", "is-closed");
+    window.setTimeout(() => {
+      chat.classList.remove("is-delayed", "is-closed");
+    }, 5000);
+  }
+
   const bodyEl = chat.querySelector(".demo-chat-body");
   const addMessage = (text, type) => {
     const msg = document.createElement("div");
